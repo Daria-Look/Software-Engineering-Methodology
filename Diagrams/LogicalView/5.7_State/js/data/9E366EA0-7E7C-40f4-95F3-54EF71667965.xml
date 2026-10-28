@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0:1", "", "SAD_TaskAssignmentInvocation", "EARoot/EA1.html", "183.png", "4", "0", "", "Statechart diagram0","{1D94882C-F213-4664-A58A-81705FE25510}");
+tocTab[tocTab.length] = new Array("0:2", "", "", "EARoot/EA4.html", "68.png", "E46", "0", "", "StateNode0","{500011AE-612E-4e6c-9C43-E3A70346FC99}");
+tocTab[tocTab.length] = new Array("0:3", "", "", "EARoot/EA5.html", "69.png", "E59", "0", "", "StateNode0","{26E78DAF-1134-44ff-84FF-C9CB4B34DAD6}");
+tocTab[tocTab.length] = new Array("0:4", "", "«SAD_StateGroup» TaskService<br />Обработка назначения", "EARoot/EA8.html", "20.png", "E48", "0", "", "State0","{9F95B803-5EF9-4a7b-9ABD-2064ED0B389C}");
+tocTab[tocTab.length] = new Array("0:5", "", "«SAD_State» Ответ с ошибкой", "EARoot/EA14.html", "20.png", "E58", "0", "", "State0","{E5D424BB-9E69-474f-ADDE-C0ADF40D4AD3}");
+tocTab[tocTab.length] = new Array("0:6", "", "«SAD_State» Откат БД", "EARoot/EA15.html", "20.png", "E55", "0", "", "State0","{DEB54210-D134-4cfe-B3F0-18B302487DBD}");
+tocTab[tocTab.length] = new Array("0:7", "", "«SAD_State» Приём запроса", "EARoot/EA19.html", "20.png", "E47", "0", "", "State0","{0B88BC65-8F88-4ae0-9F30-BA08BD6CC536}");
+tocTab[tocTab.length] = new Array("0:8", "", "«SAD_State» Успешный ответ", "EARoot/EA20.html", "20.png", "E57", "0", "", "State0","{0B850E7B-F265-4471-8C59-F7D72BBDAD21}");
+tocTab[tocTab.length] = new Array("0:9", "", "«SAD_State» Фиксация БД", "EARoot/EA21.html", "20.png", "E56", "0", "", "State0","{21A9C826-C2D9-4829-93C1-172BA78E797C}");
+tocTab[tocTab.length] = new Array("0:10", "", "", "EARoot/EA22.html", "68.png", "E49", "E48", "", "StateNode0","{B9D1A880-8B53-4663-910A-6BD8E15C96D8}");
+tocTab[tocTab.length] = new Array("0:11", "", "«SAD_State» Запись аудита", "EARoot/EA23.html", "20.png", "E54", "E48", "", "State0","{54FDDB09-6996-4610-84B2-C567A8E79359}");
+tocTab[tocTab.length] = new Array("0:12", "", "«SAD_State» Проверка условий", "EARoot/EA24.html", "20.png", "E50", "E48", "", "State0","{7FC1A7C6-4C5E-43c7-8AAB-7C63E99CA9F5}");
+tocTab[tocTab.length] = new Array("0:13", "", "«SAD_State» Создание поручения", "EARoot/EA25.html", "20.png", "E51", "E48", "", "State0","{36A5D5CB-5CBB-4883-8762-A6F28414CC6B}");
+tocTab[tocTab.length] = new Array("0:14", "", "«SAD_State» Создание уведомления", "EARoot/EA26.html", "20.png", "E53", "E48", "", "State0","{2BEDA329-CAA0-41f2-A9C4-47002567792B}");
+tocTab[tocTab.length] = new Array("0:15", "", "«SAD_State» Сохранение поручения", "EARoot/EA27.html", "20.png", "E52", "E48", "", "State0","{2FCA214F-CDA3-4275-9000-4BC5AA833B3C}");
