@@ -1,0 +1,4 @@
+tocTab[tocTab.length] = new Array("0:1", "", "SAD_CollaborationDiagram", "EARoot/EA1.html", "184.png", "22", "0", "", "Collaboration diagram0","{D2579673-9DBD-46eb-9200-D61D268BC5B6}");
+tocTab[tocTab.length] = new Array("0:2", "", ": Граф", "EARoot/EA4.html", "25.png", "E185", "0", "", "Object0","{ACCE05A6-6D79-45c2-AEB5-5F63B140C85E}");
+tocTab[tocTab.length] = new Array("0:3", "", ": Детектив", "EARoot/EA5.html", "25.png", "E193", "0", "", "Object0","{04E2D9F5-850C-447a-AFD8-2DF06D563F78}");
+tocTab[tocTab.length] = new Array("0:4", "", ": Улика", "EARoot/EA6.html", "25.png", "E194", "0", "", "Object0","{23E109CD-93C6-4d4b-9ABE-4A3FBD17D45C}");

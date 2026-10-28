@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0:1", "", "SAD_SequenceDiagram", "EARoot/EA1.html", "185.png", "25", "0", "", "Sequence diagram0","{72672EFF-AD65-4068-AFB6-66269A4EDE84}");
+tocTab[tocTab.length] = new Array("0:2", "", "«Document» : Улика готова для дела", "EARoot/EA4.html", "82.png", "E218", "0", "", "Artifact0","{9C85D882-1D41-41ed-B014-7AD472818D5F}");
+tocTab[tocTab.length] = new Array("0:3", "", "Детектив / Ассистент / Агент", "EARoot/EA14.html", "57.png", "E196", "0", "", "Sequence0","{57CAA5F2-A8B0-4f70-9787-B598FD333C0E}");
+tocTab[tocTab.length] = new Array("0:4", "", "Лаборатория", "EARoot/EA15.html", "57.png", "E198", "0", "", "Sequence0","{14853CDF-F5FC-4cc2-BC2D-0E1C90280804}");
+tocTab[tocTab.length] = new Array("0:5", "", "Система DIMS «Casebook Holmes»", "EARoot/EA16.html", "57.png", "E197", "0", "", "Sequence0","{365CC0A9-F36E-40bf-9BCC-C137D29C3C01}");
+tocTab[tocTab.length] = new Array("0:6", "", "«Document» Улика готова для дела", "EARoot/EA17.html", "82.png", "E216", "0", "", "Artifact0","{4353C57F-E229-4e24-B63E-504546B5C729}");
