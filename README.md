@@ -13,7 +13,13 @@
 |4. Use Case View|[Варианты использования](Diagrams/UseCaseView/index.html), [классы](Diagrams/ClassDiagram/index.html), [активность](Diagrams/ActivityDiagram/index.html), [состояния](Diagrams/StateMachineDiagram/index.html), [последовательность](Diagrams/SequenceDiagram/index.html), [кооперация](Diagrams/CooperativeDiagram/index.html), [PNG](Images/UseCaseView), [нативный проект EA](Models/Casebook-Holmes-UseCase-View.eapx)|
 |5. Logical View|[Общий HTML-отчёт](Diagrams/LogicalView/index.html), [состав раздела и отдельные отчёты](Diagrams/LogicalView/README.md), [PNG](Images/LogicalView), [нативный проект EA](Models/Casebook-Holmes-Logical-View.eapx)|
 
-HTML-отчёты используют JavaScript для дерева модели. Для локального просмотра запустите в корне репозитория:
+HTML-отчёты используют JavaScript для дерева модели. 
+
+
+Для локального просмотра UseCaseView воспользуйтесь [инструкцией](Diagrams/UseCaseView/ЗАПУСК.md).
+
+
+Для локального просмотра LogicalView запустите в корне репозитория:
 
 ```powershell
 py -m http.server 8765 --bind 127.0.0.1
