@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1", "1", "5.4 Пакеты", "EARoot/EA1/EA10.html", "4.png", "", "", "{98528BAC-8524-4034-85CB-1647E47B296A}", "Package");
+tocTab[tocTab.length] = new Array("0.2", "1", "5.5 Классы", "EARoot/EA2/EA34.html", "4.png", "", "", "{8CD8E39D-3AD8-49a0-A834-2A4E5D8C101B}", "Package");
+tocTab[tocTab.length] = new Array("0.3", "1", "5.6 Активность UC-02", "EARoot/EA3/EA46.html", "4.png", "", "", "{69271F90-DA67-45f7-B7D3-1E2136447479}", "Package");
+tocTab[tocTab.length] = new Array("0.4", "1", "5.7 Состояния UC-06", "EARoot/EA4/EA85.html", "4.png", "", "", "{9E366EA0-7E7C-40f4-95F3-54EF71667965}", "Package");
+tocTab[tocTab.length] = new Array("0.5", "1", "5.8 Последовательность UC-03", "EARoot/EA5/EA112.html", "4.png", "", "", "{E6446273-75DF-4221-B30E-678FB4984706}", "Package");
+tocTab[tocTab.length] = new Array("0.6", "1", "5.9 Кооперация UC-04", "EARoot/EA6/EA152.html", "4.png", "", "", "{AE847FE4-F695-431f-94C2-E06344521E33}", "Package");

@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SAD_CreateGraphLink</title>
+<link href="../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA2.png" usemap="#EA2" border="0" />
+
+<MAP NAME="EA2">
+<area shape="rect" coords="49,45,125,108" href="EA14.html" target="_self">
+<area shape="rect" coords="31,182,143,245" href="EA11.html" target="_self">
+<area shape="rect" coords="275,182,374,245" href="EA21.html" target="_self">
+<area shape="rect" coords="514,182,634,245" href="EA23.html" target="_self">
+<area shape="rect" coords="142,357,228,420" href="EA20.html" target="_self">
+<area shape="rect" coords="254,357,340,420" href="EA17.html" target="_self">
+<area shape="rect" coords="396,357,490,420" href="EA12.html" target="_self">
+<area shape="rect" coords="124,315,363,433" href="./EA1/EA25.html" target="_self">
+<area shape="rect" coords="10,125,125,168" href="EA10.html" target="_self">
+<area shape="rect" coords="150,170,275,204" href="EA22.html" target="_self">
+<area shape="rect" coords="398,267,508,301" href="EA8.html" target="_self">
+<area shape="rect" coords="125,135,250,165" href="EA24.html" target="_self">
+<area shape="rect" coords="150,220,275,254" href="EA9.html" target="_self">
+<area shape="rect" coords="382,220,512,254" href="EA4.html" target="_self">
+<area shape="rect" coords="191,267,296,301" href="EA5.html" target="_self">
+<area shape="rect" coords="293,263,403,297" href="EA6.html" target="_self">
+<area shape="rect" coords="378,170,508,204" href="EA7.html" target="_self">
+<area shape="rect" coords="5,5,635,455" href="EA15.html" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">SAD_CreateGraphLink : Analysis diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">28.10.2026 10:55:14</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">28.10.2026 15:06:33</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Danila</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{A40D0710-B93B-41d7-934E-B039C24545DA}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">UC-04. GraphService &#1087;&#1088;&#1086;&#1074;&#1077;&#1088;&#1103;&#1077;&#1090; &#1087;&#1088;&#1072;&#1074;&#1072; &#1044;&#1077;&#1090;&#1077;&#1082;&#1090;&#1080;&#1074;&#1072;, &#1089;&#1086;&#1089;&#1090;&#1086;&#1103;&#1085;&#1080;&#1077; &#1076;&#1077;&#1083;&#1072;, &#1072;&#1082;&#1090;&#1091;&#1072;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100; &#1075;&#1088;&#1072;&#1092;&#1072; &#1080; &#1087;&#1088;&#1080;&#1085;&#1072;&#1076;&#1083;&#1077;&#1078;&#1085;&#1086;&#1089;&#1090;&#1100; &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1086;&#1074; &#1076;&#1077;&#1083;&#1091;. Hypothesis, GraphEdge, &#1085;&#1086;&#1074;&#1072;&#1103; &#1088;&#1077;&#1074;&#1080;&#1079;&#1080;&#1103; &#1075;&#1088;&#1072;&#1092;&#1072; &#1080; &#1072;&#1091;&#1076;&#1080;&#1090; &#1089;&#1086;&#1093;&#1088;&#1072;&#1085;&#1103;&#1102;&#1090;&#1089;&#1103; &#1086;&#1076;&#1085;&#1086;&#1081; &#1090;&#1088;&#1072;&#1085;&#1079;&#1072;&#1082;&#1094;&#1080;&#1077;&#1081;. &#1050;&#1083;&#1080;&#1077;&#1085;&#1090; &#1087;&#1086;&#1083;&#1091;&#1095;&#1072;&#1077;&#1090; &#1089;&#1086;&#1079;&#1076;&#1072;&#1085;&#1085;&#1091;&#1102; &#1089;&#1074;&#1103;&#1079;&#1100; &#1087;&#1086;&#1089;&#1083;&#1077; COMMIT. &#1056;&#1086;&#1083;&#1100; &#1088;&#1077;&#1087;&#1086;&#1079;&#1080;&#1090;&#1086;&#1088;&#1080;&#1077;&#1074; &#1086;&#1073;&#1086;&#1073;&#1097;&#1072;&#1077;&#1090; &#1093;&#1088;&#1072;&#1085;&#1080;&#1083;&#1080;&#1097;&#1072; &#1076;&#1077;&#1083;&#1072;, &#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1086;&#1074;, &#1075;&#1080;&#1087;&#1086;&#1090;&#1077;&#1079; &#1080; &#1089;&#1074;&#1103;&#1079;&#1077;&#1081;.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

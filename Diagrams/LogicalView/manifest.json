@@ -1,0 +1,96 @@
+{
+  "scope": "SAD section 5, diagrams 5.4-5.9",
+  "date": "2026-10-28",
+  "nativeDiagrams": [
+    {
+      "number": "5.4",
+      "type": "Package",
+      "objects": 15,
+      "links": 8
+    },
+    {
+      "number": "5.5",
+      "type": "Logical",
+      "objects": 9,
+      "links": 10
+    },
+    {
+      "number": "5.6",
+      "type": "Activity",
+      "objects": 36,
+      "links": 27
+    },
+    {
+      "number": "5.7",
+      "type": "Statechart",
+      "objects": 24,
+      "links": 15
+    },
+    {
+      "number": "5.8",
+      "type": "Sequence",
+      "objects": 33,
+      "links": 20
+    },
+    {
+      "number": "5.9",
+      "type": "Analysis",
+      "objects": 18,
+      "links": 24
+    }
+  ],
+  "checks": {
+    "htmlReports": 7,
+    "htmlPagesChecked": 354,
+    "brokenLocalHtmlLinks": 0,
+    "docsImagesReplaced": 6,
+    "docsTextAndStylesPreserved": true,
+    "other19TabBodiesPreserved": true,
+    "pdfPagesVisuallyChecked": [
+      182,
+      183,
+      184,
+      185,
+      186,
+      187
+    ]
+  },
+  "files": [
+    {
+      "path": "Models/Casebook-Holmes-Logical-View.eapx",
+      "bytes": 2928640,
+      "sha256": "6e86b75a9a57dfd237ac8df1c3736d8f6097c6eaa126ac2b567ed89cfcd0efca"
+    },
+    {
+      "path": "Images/LogicalView/5.4.png",
+      "bytes": 41098,
+      "sha256": "c45ba875e95f375cac6d2457ee28eddaa581a5c5209a243d349b5030044cd964"
+    },
+    {
+      "path": "Images/LogicalView/5.5.png",
+      "bytes": 78205,
+      "sha256": "d2d596df0d6faea209d207976d371501a726015d4361c0e876e8414184b0c189"
+    },
+    {
+      "path": "Images/LogicalView/5.6.png",
+      "bytes": 84206,
+      "sha256": "0e0ece978643617c074ad2cfb42169d60fd17bdb8acb2237e9d80d6b1a1fd7bc"
+    },
+    {
+      "path": "Images/LogicalView/5.7.png",
+      "bytes": 67607,
+      "sha256": "c4e6cc1ce464697001cd43a421628b3cb6f542bd2e45eb297da679927ff935f5"
+    },
+    {
+      "path": "Images/LogicalView/5.8.png",
+      "bytes": 97915,
+      "sha256": "4936696b6f8c233da681803899c8a97ee5ebc006887e1cc239fb316f33ff9d9d"
+    },
+    {
+      "path": "Images/LogicalView/5.9.png",
+      "bytes": 52677,
+      "sha256": "58e01331a090230250211292aad31d03356ade96c837b2f77deac4d065063841"
+    }
+  ],
+  "pathBase": "repository root"
+}

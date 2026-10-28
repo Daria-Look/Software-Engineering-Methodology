@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0:1", "", "SAD_CreateGraphLink", "EARoot/EA1.html", "189.png", "6", "0", "", "Analysis diagram0","{A40D0710-B93B-41d7-934E-B039C24545DA}");
+tocTab[tocTab.length] = new Array("0:2", "", "«SAD_Participant» api: GraphController", "EARoot/EA11.html", "25.png", "E81", "0", "", "Object0","{DA89BD29-B629-45c5-94D8-3CE3B6401C2D}");
+tocTab[tocTab.length] = new Array("0:3", "", "«SAD_Participant» audit: AuditService", "EARoot/EA12.html", "25.png", "E86", "0", "", "Object0","{84773929-B54B-48b1-86B4-657F32E35261}");
+tocTab[tocTab.length] = new Array("0:4", "", "«boundary» Client", "EARoot/EA13.html", "5.png", "E74", "0", "", "Class0","{2F2D9BCE-592C-41f8-8F8A-422F1D3612E9}");
+tocTab[tocTab.length] = new Array("0:5", "", "«SAD_Participant» client: Client", "EARoot/EA14.html", "25.png", "E80", "0", "", "Object0","{30B3875D-8AA7-408c-AC50-F708E9CB4495}");
+tocTab[tocTab.length] = new Array("0:6", "", "«SAD_Participant» edge: GraphEdge", "EARoot/EA17.html", "25.png", "E85", "0", "", "Object0","{81083C91-C712-4c52-9305-E3EF560F2E07}");
+tocTab[tocTab.length] = new Array("0:7", "", "«boundary» GraphController", "EARoot/EA18.html", "5.png", "E75", "0", "", "Class0","{B79FFEE7-D318-4723-AFF4-E4D403428F4B}");
+tocTab[tocTab.length] = new Array("0:8", "", "«control» GraphService", "EARoot/EA19.html", "5.png", "E76", "0", "", "Class0","{6AD520C1-E212-45c6-9220-966CD94FE9AE}");
+tocTab[tocTab.length] = new Array("0:9", "", "«SAD_Participant» hypothesis: Hypothesis", "EARoot/EA20.html", "25.png", "E84", "0", "", "Object0","{8F62ECD0-A40C-4159-ADE1-0BF6C0632358}");
+tocTab[tocTab.length] = new Array("0:10", "", "«SAD_Participant» service: GraphService", "EARoot/EA21.html", "25.png", "E82", "0", "", "Object0","{006BCA8F-FFE1-47e5-948F-D4FF0C41DE38}");
+tocTab[tocTab.length] = new Array("0:11", "", "«SAD_GraphRole» Репозитории графа", "EARoot/EA23.html", "5.png", "E83", "0", "", "Class0","{D19D5BFB-CB7B-4cd1-9400-8154705031E5}");
+tocTab[tocTab.length] = new Array("0.1", "1", "«SAD_Domain» Domain", "EARoot/EA1/EA25.html", "4.png", "", "", "{3BE385A0-8C94-4356-BE70-6837D9322B26}", "Package");

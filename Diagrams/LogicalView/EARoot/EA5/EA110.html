@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>SAD_CreateLabRequest</title>
+<link href="../../css/ea.css" rel="stylesheet" type="text/css" />
+<script>
+function initPage(src) {	
+	if(parent==this&&(this.location+"").indexOf('EARoot')!=-1)
+		document.location=(this.location+"").substring(0,(this.location+"").indexOf('EARoot'))+"index"+(this.location+"").substring((this.location+"").lastIndexOf('.'))+"?goto="+((this.location+"").substring((this.location+"").indexOf('EARoot')+7,(this.location+"").lastIndexOf('.')).replace(/\//g,':').replace(/EA/g,""));
+	else
+		parent.initPage(src);
+}
+
+function nameClassifier(name, separator)
+{
+  var str = name;
+  var classifierName;
+  var node = document.getElementById('name_classifier');
+  if(node != null)
+  {
+    classifierName = node.innerHTML;
+  }
+  if(classifierName != "")
+  {
+   str += separator + classifierName;
+  }
+  
+  return str;
+}
+</script>
+</head>
+<body onload="initPage(this);" class="Content">
+<div class="PageBody">
+	
+<img src="EA111.png" usemap="#EA111" border="0" />
+
+<MAP NAME="EA111">
+<area shape="rect" coords="350,502,540,526" href="EA128.html" target="_self">
+<area shape="rect" coords="55,852,195,876" href="EA135.html" target="_self">
+<area shape="rect" coords="350,257,530,281" href="EA137.html" target="_self">
+<area shape="rect" coords="360,292,510,316" href="EA138.html" target="_self">
+<area shape="rect" coords="350,327,530,351" href="EA139.html" target="_self">
+<area shape="rect" coords="360,362,520,386" href="EA140.html" target="_self">
+<area shape="rect" coords="350,397,540,421" href="EA141.html" target="_self">
+<area shape="rect" coords="200,151,380,175" href="EA127.html" target="_self">
+<area shape="rect" coords="360,467,500,491" href="EA143.html" target="_self">
+<area shape="rect" coords="46,116,196,140" href="EA126.html" target="_self">
+<area shape="rect" coords="350,537,540,561" href="EA129.html" target="_self">
+<area shape="rect" coords="360,572,520,596" href="EA130.html" target="_self">
+<area shape="rect" coords="350,607,550,631" href="EA131.html" target="_self">
+<area shape="rect" coords="350,642,630,666" href="EA132.html" target="_self">
+<area shape="rect" coords="350,712,540,736" href="EA133.html" target="_self">
+<area shape="rect" coords="210,817,390,841" href="EA134.html" target="_self">
+<area shape="rect" coords="350,432,540,456" href="EA142.html" target="_self">
+<area shape="rect" coords="133,55,243,915" href="EA116.html" target="_self">
+<area shape="rect" coords="294,55,386,915" href="EA122.html" target="_self">
+<area shape="rect" coords="468,55,578,915" href="EA114.html" target="_self">
+<area shape="rect" coords="589,55,724,915" href="EA145.html" target="_self">
+<area shape="rect" coords="735,55,839,915" href="EA118.html" target="_self">
+<area shape="rect" coords="295,786,785,826" href="EA113.html" target="_self">
+<area shape="rect" coords="350,222,540,246" href="EA136.html" target="_self">
+<area shape="rect" coords="15,55,66,915" href="EA121.html" target="_self">
+<area shape="rect" coords="15,915,66,942" href="EA120.html" target="_self">
+<area shape="rect" coords="133,915,243,962" href="EA117.html" target="_self">
+<area shape="rect" coords="294,915,386,962" href="EA123.html" target="_self">
+<area shape="rect" coords="468,915,578,962" href="EA115.html" target="_self">
+<area shape="rect" coords="589,915,680,981" href="EA146.html" target="_self">
+<area shape="rect" coords="735,915,839,962" href="EA119.html" target="_self">
+<area shape="rect" coords="5,5,863,995" href="EA147.html" target="_self">
+<area shape="rect" coords="278,182,808,828" href="EA149.html" target="_self">
+</MAP>
+
+	<div class="ObjectTitle">SAD_CreateLabRequest : Interaction diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">28.10.2026 10:53:59</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">28.10.2026 15:10:12</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="proj" onclick="parent.toggleData(this.id)" />Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Danila</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><img src="../../images/plus03.gif" align="absmiddle" id="adv" onclick="parent.toggleData(this.id)" />Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{54E60A16-4CB6-4f92-9F20-457A86C3403A}</td>
+		</tr>
+	</table>
+	<div class="ObjectDetailsNotes">UC-03. LabController &#1087;&#1088;&#1086;&#1074;&#1077;&#1088;&#1103;&#1077;&#1090; &#1087;&#1086;&#1083;&#1100;&#1079;&#1086;&#1074;&#1072;&#1090;&#1077;&#1083;&#1103; &#1080; &#1092;&#1086;&#1088;&#1084;&#1072;&#1090;. LabService &#1087;&#1088;&#1086;&#1074;&#1077;&#1088;&#1103;&#1077;&#1090; &#1088;&#1086;&#1083;&#1100;, &#1085;&#1072;&#1083;&#1080;&#1095;&#1080;&#1077; &#1091;&#1083;&#1080;&#1082;&#1080;, &#1076;&#1091;&#1073;&#1083;&#1100;, &#1089;&#1088;&#1086;&#1082; &#1080; &#1076;&#1086;&#1089;&#1090;&#1091;&#1087;&#1085;&#1086;&#1075;&#1086; &#1083;&#1072;&#1073;&#1086;&#1088;&#1072;&#1085;&#1090;&#1072;. &#1055;&#1088;&#1080; &#1076;&#1091;&#1073;&#1083;&#1077; &#1086;&#1090;&#1082;&#1072;&#1079; &#1089;&#1086;&#1076;&#1077;&#1088;&#1078;&#1080;&#1090; ID &#1089;&#1091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1091;&#1102;&#1097;&#1077;&#1075;&#1086; &#1079;&#1072;&#1087;&#1088;&#1086;&#1089;&#1072;. LabRequest CREATED &#1080; Evidence UNDER_EXAMINATION, &#1091;&#1074;&#1077;&#1076;&#1086;&#1084;&#1083;&#1077;&#1085;&#1080;&#1077; &#1080; &#1072;&#1091;&#1076;&#1080;&#1090; - &#1086;&#1076;&#1085;&#1072; &#1090;&#1088;&#1072;&#1085;&#1079;&#1072;&#1082;&#1094;&#1080;&#1103;. &#1059;&#1074;&#1077;&#1076;&#1086;&#1084;&#1083;&#1077;&#1085;&#1080;&#1077; &#1086;&#1079;&#1085;&#1072;&#1095;&#1072;&#1077;&#1090; &#1079;&#1072;&#1087;&#1080;&#1089;&#1100; &#1074; &#1041;&#1044;. Task &#1085;&#1077; &#1089;&#1086;&#1079;&#1076;&#1072;&#1105;&#1090;&#1089;&#1103;. &#1054;&#1090;&#1074;&#1077;&#1090; &#1087;&#1086;&#1089;&#1083;&#1077; COMMIT.&lt;br/&gt;</div>
+
+</div>
+ 
+</body>
+</html>

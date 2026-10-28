@@ -1,0 +1,11 @@
+tocTab[tocTab.length] = new Array("0.5:1", "", "SAD_CreateLabRequest", "EARoot/EA5/EA110.html", "185.png", "5", "0", "", "Sequence diagram0","{54E60A16-4CB6-4f92-9F20-457A86C3403A}");
+tocTab[tocTab.length] = new Array("0.5:2", "", "«role»<br />Репозитории", "EARoot/EA5/EA114.html", "57.png", "E68", "0", "", "Sequence0","{3CF3900E-A147-4ea7-AE84-BCA6253C0C19}");
+tocTab[tocTab.length] = new Array("0.5:3", "", "api: LabController", "EARoot/EA5/EA116.html", "57.png", "E66", "0", "", "Sequence0","{05BB2E85-AD1F-4732-B2AE-D1F42DB47C9C}");
+tocTab[tocTab.length] = new Array("0.5:4", "", "audit: AuditService", "EARoot/EA5/EA118.html", "57.png", "E70", "0", "", "Sequence0","{D523950C-FA37-4b52-8157-04DF26F682F7}");
+tocTab[tocTab.length] = new Array("0.5:5", "", "Client", "EARoot/EA5/EA121.html", "57.png", "E65", "0", "", "Sequence0","{66382407-D326-4faf-9C6A-B909E528CFF2}");
+tocTab[tocTab.length] = new Array("0.5:6", "", "lab: LabService", "EARoot/EA5/EA122.html", "57.png", "E67", "0", "", "Sequence0","{D6F18787-A062-47a2-851D-7EA8039C632E}");
+tocTab[tocTab.length] = new Array("0.5:7", "", "«boundary» LabController", "EARoot/EA5/EA124.html", "5.png", "E61", "0", "", "Class0","{6CDA1B3B-85FB-47a9-AA96-56182C43C29E}");
+tocTab[tocTab.length] = new Array("0.5:8", "", "«control» LabService", "EARoot/EA5/EA125.html", "5.png", "E62", "0", "", "Class0","{3AE2FE0B-E198-41a1-9A52-819CA5269D8D}");
+tocTab[tocTab.length] = new Array("0.5:9", "", "«service» NotificationService", "EARoot/EA5/EA144.html", "5.png", "E63", "0", "", "Class0","{3E3F4738-8ECF-4f1f-A28F-6DA7B991F8DC}");
+tocTab[tocTab.length] = new Array("0.5:10", "", "notify: NotificationService", "EARoot/EA5/EA145.html", "57.png", "E69", "0", "", "Sequence0","{8D157EE5-573D-4b45-ABE3-1A7D67BD6950}");
+tocTab[tocTab.length] = new Array("0.5:11", "", "«role» Репозитории", "EARoot/EA5/EA148.html", "5.png", "E64", "0", "", "Class0","{A6E1DFC7-4D0E-45a8-A132-866F10E67781}");
